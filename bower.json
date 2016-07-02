@@ -1,0 +1,30 @@
+{
+  "name": "conFusion",
+  "version": "1.0.0",
+  "description": "Your description",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [],
+  "authors": [
+    ""
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.6.3",
+    "angular": "~1.5.7",
+    "bootstrap-social": "^5.0.0"
+  },
+  "resolutions": {
+    "angular": "~1.5.7",
+    "font-awesome": "~4.5"
+  }
+}
